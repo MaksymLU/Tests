@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+4ZltUm5oj1cIg2MysvAZhT7rK8C5aO44dzRwl8VKemPl1yCKIrbvSpsJsvBgzco1ZZszNmPAhaRYW3XO3cfuQ==",
+  "dgSpecHash": "yBMNmulOrtuvovtQb0YrvHxZNrhcBGO5PGTEFLmLfBz3TB5pfdju403lQaVcq1UvPUefKEjPIwJjOdWp74OHoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\lab_3\\lab_3.csproj",
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Git Clone\\Tests\\Тестування лаби\\lab_3\\lab_3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

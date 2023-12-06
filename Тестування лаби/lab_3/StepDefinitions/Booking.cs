@@ -16,6 +16,7 @@ namespace lab_3.StepDefinitions
         public BookingObject bookingObject { get; set; }
         public string token { get; set; }
 
+
         [When(@"I send a GET request to ""([^""]*)""")]
         public void WhenISendAGETRequestTo(string url)
         {

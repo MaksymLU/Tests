@@ -27,7 +27,7 @@ Scenario Outline: Put
     Then the response status code should OK
     Examples:
     | booking_id |
-    | 505       |
+    | 505        |
 
 @Delete
 Scenario Outline: Delete

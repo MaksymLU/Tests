@@ -8,7 +8,7 @@ namespace lab_3.Support
     {
         public static RestClient client = new RestClient();
         public static RestRequest request = new RestRequest();
-        public static RestResponse response { get; set; }
+        public static RestResponse response = new RestResponse();
         public Client() { }
     }
 }
